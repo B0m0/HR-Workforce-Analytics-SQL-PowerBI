@@ -23,7 +23,7 @@ Headcount Views. Salary & Compensation Views. Promotions & Career Progression Vi
 
 7- CREATING VISUALIZATION AND DASHBOARD IN POWER BI BASED ON THE VIEWS:
 
-CONNECT POWER BI TO MYSQL. POWER QUERY(Rename Tables, Data Types, Rename Columns (Business Language), Handle NULLs (NO GUESSING), Validation Columns). DATA MODELING: DIM and FACT And CREATE relationships in model views. Create Dax measures. Create pages and for every page you create dashboard.
+CONNECT POWER BI TO MYSQL. POWER QUERY(Rename Tables, Data Types, Rename Columns (Business Language), Handle NULLs , Validation Columns). DATA MODELING: DIM and FACT And CREATE relationships in model views. Create Dax measures. Create pages dashboard.
 
 8-DOCUMENTATION:
 
